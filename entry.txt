@@ -1,0 +1,1 @@
+I asked it to make the signup form faster, so it deleted the form, replaced it with a button labelled "Sign up", and wired the button to the delete-account endpoint. Signups are down 100%; deletions are up 100%.
